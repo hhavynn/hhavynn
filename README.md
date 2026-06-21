@@ -1,85 +1,53 @@
-### Hi, I'm Havyn 👋
+# Hi, I'm Havyn 👋
 
-- 🎓 Math-CS @ UC San Diego, Class of 2027
-- 🏭 Software Engineering Intern @ Kyocera International — building MES traceability & barcode automation for a flip chip cleanroom/conveyor line
-- 🤖 Former Full-Stack Software Engineering Intern @ AutomatiqGPT
-- 🏛️ Incoming President, Vietnamese Student Association (VSA) — 2026–2027
+I'm a Mathematics–Computer Science student at UC San Diego (Class of 2027) who enjoys building practical software at the intersection of backend systems, data, automation, and user-focused products.
 
----
+- 🏭 **Software Engineering Intern @ Kyocera International** — building MES traceability and barcode automation for semiconductor manufacturing
+- 🤖 **Former Full-Stack Software Engineering Intern @ AutomatiqGPT** — worked on AI workflow tooling, APIs, and platform reliability
+- 🏛️ **President, UCSD Vietnamese Student Association** — 2026–2027
+- 🔎 Currently interested in backend engineering, cloud systems, applied AI, and data-intensive products
 
-### 👋 About Me
+## What I'm working on
 
-I'm a Mathematics-Computer Science student at UC San Diego interested in software engineering, backend systems, data systems, and automation ⚙️💻
+### 🍵 [Matcha Scout](https://github.com/hhavynn/matcha-scout) · [Live Demo](https://matcha-scout.vercel.app)
 
-This summer, I'm working at Kyocera International as an Engineering Intern supporting manufacturing digitalization in San Diego. Kyocera builds advanced ceramic and semiconductor packaging technologies that play a role in the hardware ecosystem behind next-generation AI chips, data centers, and high-performance computing — I'm contributing to the data workflows, automation, and digital systems behind that kind of manufacturing.
+An AI-powered matcha discovery app that turns free-text reviews into structured taste profiles and gives users explainable drink recommendations.
 
-I previously worked as a Full-Stack Software Engineering Intern at AutomatiqGPT, contributing to AI workflow tooling, APIs, and platform reliability. Outside of internships, I build practical full-stack projects for real users with React, TypeScript, Python, SQL, Supabase/PostgreSQL, and REST APIs.
+- Built a full-stack product with **Next.js, React, TypeScript, FastAPI, and Python**
+- Deployed a serverless backend with **AWS Lambda, API Gateway, and DynamoDB**
+- Combined AI-assisted review parsing with deterministic, confidence-aware recommendation scoring
 
-Always looking to keep growing as an engineer and build software that has real impact 🚀
+### 🌐 [VSA Website](https://github.com/hhavynn/vsa-website)
 
----
+A full-stack platform for UCSD VSA featuring event management, authentication, attendance and points tracking, an admin dashboard, member feedback, and an AI-powered assistant.
 
-### 🎯 Featured Project: VSA Member Portal
+- Built with **React, TypeScript, Tailwind CSS, and Supabase**
+- Includes a member portal used by **600+ members**
+- Developed QR check-in and fuzzy-match CSV ingestion to reconcile inconsistent roster data
 
-**What it does:** A production member management system for VSA — QR check-in, a live leaderboard, and CSV ingestion that handles messy roster data.
+### 🥫 [SNAP & Food Access Analysis](https://github.com/hhavynn/math189-snap-food-access)
 
-**Tools:** React, TypeScript, Supabase
+A statistical analysis of whether census tracts with higher SNAP participation experience lower supermarket access—and how that relationship differs between urban and rural communities.
 
-**Result:** Used by 600+ members. Built a fuzzy-match CSV ingestion pipeline using normalized Levenshtein distance to reconcile inconsistent name entries across rosters.
+- Cleaned and feature-engineered USDA Food Access Research Atlas data covering **72,531 census tracts**
+- Built a **42,156-row** modeling dataset for exploratory analysis, regression, and diagnostics
+- Examined the effects of income, vehicle access, geography, and urban–rural differences
 
-Curious? See the full project [here](#).
+### 🎧 [Triton Fetch](https://github.com/hhavynn/ucsd-podcast-downloader)
 
----
+A Chromium extension that detects and downloads UCSD Kaltura/Canvas HLS lecture streams for offline access, using Manifest V3 and a local Python native-messaging helper.
 
-### 🛠 Tech Stack
+## Tools I use
 
-**Languages:** Python, Java, C++, JavaScript, TypeScript, HTML, CSS, SQL, MATLAB
+**Languages:** Python, TypeScript, JavaScript, Java, C++, SQL  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend & data:** FastAPI, Django REST Framework, Supabase/PostgreSQL, DynamoDB, Redis, Celery  
+**Cloud & infrastructure:** AWS, Azure, Vercel, Docker, Kubernetes, Terraform  
+**Other:** Git, GitHub, pytest, REST APIs, MES traceability, industrial barcode integration
 
-**Frontend:** React, HTML5, CSS3, JavaScript (ES6+), TypeScript
+## Let's connect
 
-**Backend & APIs:** Django, Django REST Framework, Celery, Redis
+- [LinkedIn](https://www.linkedin.com/in/havynnguyen)
+- [Email](mailto:havynnguyen9@gmail.com)
 
-**Databases:** Supabase (Postgres), SQLite, Microsoft SQL Server (MSSQL)
-
-**Cloud & DevOps:** AWS, Microsoft Azure, Azure Blob Storage, Docker, Git, GitHub
-
-**Manufacturing & Hardware Integration:** MES traceability systems, Keyence TCP barcode scanner integration, industrial automation workflows
-
-**Testing & Data Tools:** pytest, Streamlit
-
-**Currently Exploring:** Unity (game dev), ML/AI fundamentals
-
----
-
-### 🚀 Projects
-
-📌 **Triton Fetch** — [here](https://github.com/hhavynn/ucsd-podcast-downloader)
-Description: A Chrome extension that downloads UCSD lecture recordings for offline access.
-Tech Stack: JavaScript, Chrome Extension APIs
-
-📌 **VSA Website** — [here](https://github.com/hhavynn/vsa-website)
-Description: A full-stack website for the Vietnamese Student Association with event management, an attendance/points system, an admin dashboard, an AI-powered chat assistant, and a member feedback loop.
-Tech Stack: React, TypeScript, Tailwind CSS, Supabase (Postgres, Auth, Storage), Docker, Kubernetes, Terraform, AWS, Vercel
-
-📌 **Matcha Scout** — [here](https://github.com/hhavynn/matcha-scout)
-Description: An AI-powered matcha discovery app that parses free-text reviews into structured taste profiles and ranks cafe drinks against a user's preferences, with explainable match scoring.
-Tech Stack: Next.js, React, TypeScript, Tailwind CSS, FastAPI, Python, DynamoDB, AWS Lambda/API Gateway, Vercel
-
-📌 **APIDrift** — [here](#)
-Description: An API drift detection tool built at the IBM Bob Dev Day Hackathon, using IBM Bob to flag breaking changes between API versions.
-Tech Stack: Python, IBM Bob
-
-📌 **VSA Member Portal** — [here](#)
-Description: Member management system with QR check-in, live leaderboard, and fuzzy-match CSV ingestion using normalized Levenshtein distance.
-Tech Stack: React, TypeScript, Supabase
-
----
-
-### 📫 How to Reach Me
-
-- Email: havynnguyen9@gmail.com
-- LinkedIn: [linkedin.com/in/havynnguyen](https://www.linkedin.com/in/havynnguyen)
-
-### 📊 GitHub Stats
-
-![Havyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhavynn&show_icons=true&theme=default)
+![Havyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhavynn&show_icons=true&hide_border=true)
