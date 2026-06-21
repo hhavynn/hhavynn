@@ -15,7 +15,7 @@
 
 **Result:** Used by 600+ members. Built a fuzzy-match CSV ingestion pipeline using normalized Levenshtein distance to reconcile inconsistent name entries across rosters.
 
-Curious? See the full project [here](#).
+Curious? See the full project [here](https://github.com/hhavynn/vsa-website).
 
 ---
 
