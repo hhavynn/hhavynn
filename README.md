@@ -329,7 +329,7 @@ I build software that ships, scales, and solves real problems.
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hhavynn&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=hhavynn&theme=darkhub&no-frame=true&margin-w=6&column=6&bg_color=0D1117" alt="GitHub Trophies"/>
 
 </div>
 
@@ -354,8 +354,6 @@ I build software that ships, scales, and solves real problems.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhavynn/hhavynn/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/hhavynn/hhavynn/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-> To enable the snake, add a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to your `hhavynn/hhavynn` profile repo.
 
 </div>
 
