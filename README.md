@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-matcha--scout.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://matcha-scout.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hhavynn.github.io-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://hhavynn.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-havynnguyen-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/havynnguyen)
 [![Email](https://img.shields.io/badge/Email-havynnguyen9%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:havynnguyen9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hhavynn-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hhavynn)
@@ -141,7 +141,7 @@ I build software that ships, scales, and solves real problems.
 | **Performance** | Fully serverless AWS backend; Lambda + API Gateway + DynamoDB; zero always-on infrastructure cost |
 | **Security** | Environment-gated AI mode; mock parser default for safe operation; no Yelp data stored as user reviews |
 | **DevOps** | Docker Compose local dev · verified kind Kubernetes manifests · AWS SAM IaC deployment |
-| **Impact** | Live at matcha-scout.vercel.app · 500+ Vercel deployments · multi-city Yelp Fusion API ingestion |
+| **Impact** | Live at [matcha-scout.vercel.app](https://matcha-scout.vercel.app) · 500+ Vercel deployments · multi-city Yelp Fusion API ingestion |
 | **Repository** | [github.com/hhavynn/matcha-scout](https://github.com/hhavynn/matcha-scout) |
 
 - Gemini-compatible structured review parsing pipeline mapping natural language → 5 taste dimensions
@@ -395,7 +395,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-havynnguyen9%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:havynnguyen9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-havynnguyen-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/havynnguyen)
 [![GitHub](https://img.shields.io/badge/GitHub-hhavynn-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hhavynn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-matcha--scout.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://matcha-scout.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hhavynn.github.io-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://hhavynn.github.io)
 
 </div>
 
