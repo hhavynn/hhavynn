@@ -325,16 +325,6 @@ I build software that ships, scales, and solves real problems.
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hhavynn&theme=darkhub&no-frame=true&margin-w=6&column=6&bg_color=0D1117" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
